@@ -1,0 +1,68 @@
+﻿<Window x:Class="WPF_Margin_.Mang2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Margin_"
+        mc:Ignorable="d"
+        
+    Title="Game lật hình" Height="397.368" Width="525" WindowState="Maximized">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Background="{TemplateBinding Background}" BorderBrush="Black" BorderThickness="0">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Opacity" Value="0.7"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid x:Name="gd">
+        <TextBlock x:Name="lbdiem"
+                   Text="Điểm:"
+                   Foreground="Yellow"
+                   FontWeight="Bold"
+            VerticalAlignment="Top"
+            Margin="20,10,430,0"
+                   FontSize="20"
+            ></TextBlock>
+        <TextBlock
+            x:Name="tbdiem"
+            Foreground="Yellow"
+            Text="Tổng số điểm"
+            VerticalAlignment="Top"
+            Margin="90,10,40,0"
+            FontSize="20" FontWeight="Bold"
+            ></TextBlock>
+        <TextBlock
+            x:Name="tbthoigian"
+            Foreground="Yellow"
+            FontWeight="Bold"
+            Text="Thời gian:"
+            VerticalAlignment="Top"
+            Margin="20,40,400,0"
+            FontSize="20"
+            ></TextBlock>
+        <TextBlock
+            x:Name="tbtongtg"
+            Foreground="Yellow"
+            FontWeight="Bold"
+            Text="Tổng thời gian"
+            VerticalAlignment="Top"
+            Margin="120,40,200,0"
+            FontSize="20"
+            ></TextBlock>
+        <WrapPanel x:Name="wrapluoi"
+                   Margin="20,80,20,20" Orientation="Vertical"                     
+            />
+    </Grid>
+</Window>

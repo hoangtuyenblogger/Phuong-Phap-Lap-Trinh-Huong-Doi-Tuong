@@ -1,0 +1,43 @@
+c:\users\duy\documents\visual studio 2015\Projects\WPF(Margin)\WPF(Margin)\bin\Debug\WPF(Margin).exe.config
+c:\users\duy\documents\visual studio 2015\Projects\WPF(Margin)\WPF(Margin)\bin\Debug\WPF(Margin).exe
+c:\users\duy\documents\visual studio 2015\Projects\WPF(Margin)\WPF(Margin)\bin\Debug\WPF(Margin).pdb
+c:\users\duy\documents\visual studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\WPF(Margin).csprojResolveAssemblyReference.cache
+c:\users\duy\documents\visual studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\MainWindow.g.cs
+c:\users\duy\documents\visual studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\App.g.cs
+c:\users\duy\documents\visual studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\WPF(Margin)_MarkupCompile.cache
+c:\users\duy\documents\visual studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\WPF(Margin)_MarkupCompile.lref
+c:\users\duy\documents\visual studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\MainWindow.baml
+c:\users\duy\documents\visual studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\WPF(Margin).g.resources
+c:\users\duy\documents\visual studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\WPF_Margin_.Properties.Resources.resources
+c:\users\duy\documents\visual studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\WPF(Margin).csproj.GenerateResource.Cache
+c:\users\duy\documents\visual studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\WPF(Margin).exe
+c:\users\duy\documents\visual studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\WPF(Margin).pdb
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\ChuyenCanh.g.cs
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\ChuyenCanh.baml
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\Mang2.g.cs
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\Mang2.baml
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\Mang3.g.cs
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\Mang3.baml
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\Mang4.g.cs
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Debug\Mang4.baml
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\bin\Debug\WPF(Margin).exe.config
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\bin\Debug\WPF(Margin).exe
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\bin\Debug\WPF(Margin).pdb
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\ChuyenCanh.g.cs
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\MainWindow.g.cs
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\Mang2.g.cs
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\Mang3.g.cs
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\Mang4.g.cs
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\App.g.cs
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\WPF(Margin)_MarkupCompile.cache
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\WPF(Margin)_MarkupCompile.lref
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\ChuyenCanh.baml
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\MainWindow.baml
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\Mang2.baml
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\Mang3.baml
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\Mang4.baml
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\WPF(Margin).g.resources
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\WPF_Margin_.Properties.Resources.resources
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\WPF(Margin).csproj.GenerateResource.Cache
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\WPF(Margin).exe
+C:\Users\QuangTanh\Downloads\WPF(Margin)\WPF(Margin)\WPF(Margin)\obj\Debug\WPF(Margin).pdb

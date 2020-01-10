@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Code c++\Nam II Dai Hoc Thu Dau Mot\Phuong Phap Lap Trinh Huong Doi Tuong\bt tuan 3\test-ne\test-ne\</FILEPATH>
+      <FILENAME>hoangtuyen.cpp</FILENAME>
+      <LINE>74</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'duongtron::pi' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>duongtron::{ctor}</FUNCTION>
+    <DECORATED>??0duongtron@@QEAA@AEAV0@@Z</DECORATED>
+    <FUNCLINE>74</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>duongtron::pi</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

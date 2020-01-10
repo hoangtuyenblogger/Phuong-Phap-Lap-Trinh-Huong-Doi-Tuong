@@ -1,0 +1,8 @@
+﻿AMNHAC|Âm nhạc
+CNTTI|Công nghệ thông tin
+DNHAN|Doanh Nhân
+DULICH|Du lịch
+KHKT|Khoa học Kỹ thuật
+KHVL|Khoa học Vật lý
+KHXH|Khoa học Xã hội
+KINHTE|Kinh Tế

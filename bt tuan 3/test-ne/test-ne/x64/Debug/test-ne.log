@@ -1,0 +1,2 @@
+﻿test-ne.obj : error LNK2019: unresolved external symbol "void __cdecl out(int * const,int)" (?out@@YAXQEAHH@Z) referenced in function main
+D:\Code c++\Nam II Dai Hoc Thu Dau Mot\Phuong Phap Lap Trinh Huong Doi Tuong\bt tuan 3\test-ne\x64\Debug\test-ne.exe : fatal error LNK1120: 1 unresolved externals

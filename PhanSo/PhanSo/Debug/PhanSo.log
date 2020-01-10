@@ -1,0 +1,22 @@
+﻿  main.cpp
+  PhanSo.cpp
+  Generating Code...
+PhanSo.obj : error LNK2005: "public: __thiscall PhanSo::PhanSo(int)" (??0PhanSo@@QAE@H@Z) already defined in main.obj
+PhanSo.obj : error LNK2005: "public: __thiscall PhanSo::PhanSo(int,int)" (??0PhanSo@@QAE@HH@Z) already defined in main.obj
+PhanSo.obj : error LNK2005: "public: __thiscall PhanSo::PhanSo(void)" (??0PhanSo@@QAE@XZ) already defined in main.obj
+PhanSo.obj : error LNK2005: "public: __thiscall PhanSo::~PhanSo(void)" (??1PhanSo@@QAE@XZ) already defined in main.obj
+PhanSo.obj : error LNK2005: "public: class PhanSo __thiscall PhanSo::operator++(int)" (??EPhanSo@@QAE?AV0@H@Z) already defined in main.obj
+PhanSo.obj : error LNK2005: "public: class PhanSo __thiscall PhanSo::operator++(void)" (??EPhanSo@@QAE?AV0@XZ) already defined in main.obj
+PhanSo.obj : error LNK2005: "public: class PhanSo __thiscall PhanSo::operator--(int)" (??FPhanSo@@QAE?AV0@H@Z) already defined in main.obj
+PhanSo.obj : error LNK2005: "public: class PhanSo __thiscall PhanSo::operator--(void)" (??FPhanSo@@QAE?AV0@XZ) already defined in main.obj
+PhanSo.obj : error LNK2005: "public: class PhanSo __thiscall PhanSo::operator-(void)" (??GPhanSo@@QAE?AV0@XZ) already defined in main.obj
+PhanSo.obj : error LNK2005: "private: int __thiscall PhanSo::UCLN(int,int)" (?UCLN@PhanSo@@AAEHHH@Z) already defined in main.obj
+PhanSo.obj : error LNK2005: "public: void __thiscall PhanSo::chuanhoa(void)" (?chuanhoa@PhanSo@@QAEXXZ) already defined in main.obj
+PhanSo.obj : error LNK2005: "public: class PhanSo __thiscall PhanSo::rutgon(void)" (?rutgon@PhanSo@@QAE?AV1@XZ) already defined in main.obj
+PhanSo.obj : error LNK2005: "public: void __thiscall PhanSo::set(int,int)" (?set@PhanSo@@QAEXHH@Z) already defined in main.obj
+main.obj : error LNK2019: unresolved external symbol "class PhanSo __cdecl operator+(class PhanSo,class PhanSo)" (??H@YA?AVPhanSo@@V0@0@Z) referenced in function "public: class PhanSo __thiscall PhanSo::operator++(void)" (??EPhanSo@@QAE?AV0@XZ)
+PhanSo.obj : error LNK2001: unresolved external symbol "class PhanSo __cdecl operator+(class PhanSo,class PhanSo)" (??H@YA?AVPhanSo@@V0@0@Z)
+main.obj : error LNK2019: unresolved external symbol "class PhanSo __cdecl operator-(class PhanSo,class PhanSo)" (??G@YA?AVPhanSo@@V0@0@Z) referenced in function "public: class PhanSo __thiscall PhanSo::operator--(void)" (??FPhanSo@@QAE?AV0@XZ)
+PhanSo.obj : error LNK2001: unresolved external symbol "class PhanSo __cdecl operator-(class PhanSo,class PhanSo)" (??G@YA?AVPhanSo@@V0@0@Z)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\Nam II Dai Hoc Thu Dau Mot\Phuong Phap Lap Trinh Huong Doi Tuong\PhanSo\Debug\PhanSo.exe : fatal error LNK1120: 3 unresolved externals

@@ -1,0 +1,15 @@
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\bin\Release\WPF(Margin).exe.config
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\bin\Release\WPF(Margin).exe
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\bin\Release\WPF(Margin).pdb
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Release\ChuyenCanh.g.cs
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Release\MainWindow.g.cs
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Release\App.g.cs
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Release\WPF(Margin)_MarkupCompile.cache
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Release\WPF(Margin)_MarkupCompile.lref
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Release\ChuyenCanh.baml
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Release\MainWindow.baml
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Release\WPF(Margin).g.resources
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Release\WPF_Margin_.Properties.Resources.resources
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Release\WPF(Margin).csproj.GenerateResource.Cache
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Release\WPF(Margin).exe
+C:\Users\duy\Documents\Visual Studio 2015\Projects\WPF(Margin)\WPF(Margin)\obj\Release\WPF(Margin).pdb

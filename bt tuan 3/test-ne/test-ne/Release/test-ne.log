@@ -1,0 +1,13 @@
+﻿  hoangtuyen.cpp
+D:\Code c++\Nam II Dai Hoc Thu Dau Mot\Phuong Phap Lap Trinh Huong Doi Tuong\bt tuan 3\test-ne\test-ne\hoangtuyen.cpp(58,9): warning C4305: '=': truncation from 'double' to 'float'
+D:\Code c++\Nam II Dai Hoc Thu Dau Mot\Phuong Phap Lap Trinh Huong Doi Tuong\bt tuan 3\test-ne\test-ne\hoangtuyen.cpp(63,9): warning C4305: '=': truncation from 'double' to 'float'
+D:\Code c++\Nam II Dai Hoc Thu Dau Mot\Phuong Phap Lap Trinh Huong Doi Tuong\bt tuan 3\test-ne\test-ne\hoangtuyen.cpp(87,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Code c++\Nam II Dai Hoc Thu Dau Mot\Phuong Phap Lap Trinh Huong Doi Tuong\bt tuan 3\test-ne\test-ne\hoangtuyen.cpp(93,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Code c++\Nam II Dai Hoc Thu Dau Mot\Phuong Phap Lap Trinh Huong Doi Tuong\bt tuan 3\test-ne\test-ne\hoangtuyen.cpp(101,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Code c++\Nam II Dai Hoc Thu Dau Mot\Phuong Phap Lap Trinh Huong Doi Tuong\bt tuan 3\test-ne\test-ne\hoangtuyen.cpp(108,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Code c++\Nam II Dai Hoc Thu Dau Mot\Phuong Phap Lap Trinh Huong Doi Tuong\bt tuan 3\test-ne\test-ne\hoangtuyen.cpp(273,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  test-ne.vcxproj -> D:\Code c++\Nam II Dai Hoc Thu Dau Mot\Phuong Phap Lap Trinh Huong Doi Tuong\bt tuan 3\test-ne\Release\test-ne.exe
